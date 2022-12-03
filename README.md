@@ -43,11 +43,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Portfolio-mobile] <a name="about-project"></a>
 
-> This is a simple HTML and css project that guided me on how to use linters in my HTML and css work
+> This is a simple HTML and css project that equips me with skills required to design a portfolio for mobile view
 
-**Hello microverse** is a simple basic HTML project 
+**Hello microverse** is a mobile view enabled portfolio project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 - **[HTML]**
 - **[CSS]**
-- **[VS CODE]**
+- **[FIGMA]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +110,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 clone this link to your local repositoty: 
-https://github.com/RichardKaranuMbuti/Hello-microverse
+https://github.com/RichardKaranuMbuti/Portfolio-mobile-first
 
 <!--
 Example command:
@@ -122,7 +122,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/RichardKaranuMbuti/Hello-microverse
+Clone this repository to your desired folder: https://github.com/RichardKaranuMbuti/Portfolio-mobile-first
 
 <!--
 Example commands:
@@ -150,6 +150,8 @@ Example command:
 
 To run the project, execute the following command:
 
+Clone this https://github.com/RichardKaranuMbuti/Portfolio-mobile-first github repo to your folder then open the folder with visual studio code
+
 <!--
 Example command:
 
@@ -160,7 +162,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the index.html file on your browser
 
 <!--
 Example command:
@@ -209,7 +211,7 @@ Example:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Javascript]**
-- [ ] **[Mobile version]**
+- [ ] **[Responsiveness]**
 - [ ] **[Tablet version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -230,7 +232,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give it a thumbs up and follow me on github for more projects
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,7 +242,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank all my code reviewers for making my code better
+I would like to thank all my code reviewers for making my code better 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
